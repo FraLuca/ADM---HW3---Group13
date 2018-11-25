@@ -36,4 +36,4 @@ A detailed description is provided in the file.
 
 ## Visualization Problem
 
-If you can't see some plot or map please try to see at this link: 
+If you can't see some plot or map please try to see at this link: [NB Viewer](http://nbviewer.jupyter.org/github/Scarallallau/ADM---HW3---Group13/blob/master/Homework%203%20-%20Group%2013.ipynb)
